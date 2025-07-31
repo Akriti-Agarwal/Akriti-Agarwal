@@ -1,10 +1,9 @@
- Hi there 👋
+Who Am I?
+- 👋🏻 Hi, I’m **Akriti**.
+- 🌱 I’m currently exploring **Full-Stack Development** along with **DSA**.
+- 🧑🏻‍💻 My Tech Stack: **Servlet**, **JavaServer pages**, **SQL**.
+- 💻 Languages I know:  **Java**, **C++**,**HTML**.
  
-🌱 I’m currently exploring Full-Stack Development along with DSA.
-
-🧑🏻‍💻 My Tech Stack: Servlet,JavaServer Pages, JDBC.
-
-💻 Languages I know: Java, C++, HTML.
 
 <!--
 **Akriti-Agarwal/Akriti-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
