@@ -1,4 +1,7 @@
-## Hi there 👋
+ Hi there 👋
+🌱 I’m currently exploring Full-Stack Development along with DSA.
+🧑🏻‍💻 My Tech Stack: Servlet,JavaServer Pages, JDBC.
+💻 Languages I know: Java, C++, HTML.
 
 <!--
 **Akriti-Agarwal/Akriti-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
