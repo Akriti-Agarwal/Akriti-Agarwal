@@ -1,6 +1,9 @@
  Hi there 👋
+ 
 🌱 I’m currently exploring Full-Stack Development along with DSA.
+
 🧑🏻‍💻 My Tech Stack: Servlet,JavaServer Pages, JDBC.
+
 💻 Languages I know: Java, C++, HTML.
 
 <!--
